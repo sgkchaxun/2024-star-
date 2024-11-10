@@ -19,5 +19,5 @@
 
 暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
-* 暗精灵社工库账号* <a href="https://t.me/ku77777?start=qstxIqcQ3R" target="_blank">@AJL01_bot</a>
-* <a href="https://t.me/ku77777?start=qstxIqcQ3R" target="_blank">@AJL01_bot</a>
+* 暗精灵社工库账号* <a href="https://t.me/ku77777?start=qstxIqcQ3R" target="_blank">@社工库客服</a>
+
